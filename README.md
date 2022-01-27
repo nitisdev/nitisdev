@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @nitisdev. Welcome to my small corner on Github.
+- 👋 Hi, I’m @Nitish Welcome to my small corner on Github.
 - 👀 I’m interested in DevOps and opensource.
-- 🌱 I’m currently learning many things.
-- 📫 You can reach me [here](https://twitter.com__nitis__).
-
-<!---
-nitis9/nitis9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently lworking on many exciting things.
+- 📫 You can reach mon [![Twitter: __nitis__](https://img.shields.io/badge/-nitisdev-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/__nitis__/)](https://www.twitter.com/__nitis__)
