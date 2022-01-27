@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Nitish Welcome to my small corner on Github.
 - 👀 I’m interested in DevOps and opensource.
 - 🌱 I’m currently lworking on many exciting things.
-- 📫 You can reach mon [![Twitter: __nitis__](https://img.shields.io/badge/-nitisdev-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/__nitis__/)](https://www.twitter.com/__nitis__)
+- 📫 You can reach me on: [![Twitter: __nitis__](https://img.shields.io/badge/-nitisdev-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/__nitis__/)](https://www.twitter.com/__nitis__)
