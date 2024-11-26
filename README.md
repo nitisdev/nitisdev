@@ -27,6 +27,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Actulance/Actulance/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nitisdev/nitisdev/output/snake.svg" alt="Snake animation" />
 
 ###
