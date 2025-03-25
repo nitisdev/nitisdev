@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Nitish Welcome to my small corner on Github.<br>🔭 I’m interested in AI, DevSecOps and Opensource.<br>🪛 ⚙️ I’m currently working on some exciting things while learning tons of new technologies.<br>📫 You can reach me through: Twitter: nitis or Linkedin: nitisdev<br><br>🌐 https://profile.fyi/nitishsingh
+👋 Hi, I’m @Nitish Welcome to my small corner on Github.<br>🔭 I’m interested in AI, DevSecOps and Opensource.<br>🪛 ⚙️ I’m currently working on some exciting things while learning tons of new technologies.<br>📫 You can reach me through socials mentioned below.<br><br>
 
 
 ## 🌐 Socials:
